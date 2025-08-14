@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6e0d83-3239-49b4-8592-5e587b4a7cfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/project.nuget.cache" afterDir="false" />
-    </list>
+    <list default="true" id="cd6e0d83-3239-49b4-8592-5e587b4a7cfa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755011845239</updated>
       <workItem from="1755011847744" duration="7245000" />
-      <workItem from="1755184853254" duration="466000" />
+      <workItem from="1755184853254" duration="858000" />
     </task>
     <servers />
   </component>
