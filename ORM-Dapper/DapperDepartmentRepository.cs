@@ -15,6 +15,6 @@ public class DapperDepartmentRepository : IDepartmentRepository
 
    public IEnumerable<Department> GetAllDepartments()
     {
-        return _connection.Query<Department>("SELECT * FROM Department");
+        return _connection.Query<Department>("SELECT * FROM Departments");
     }
 }

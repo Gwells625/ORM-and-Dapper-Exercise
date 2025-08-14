@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data;
 using System.IO;
+using System.Transactions;
 using MySql.Data.MySqlClient;
 using Microsoft.Extensions.Configuration;
 
@@ -16,7 +17,17 @@ namespace ORM_Dapper
                 .AddJsonFile("appsettings.json")
                 .Build();
             string connString = config.GetConnectionString("DefaultConnection");
-            IDbConnection conn = new MySqlConnection(connString); 
+            
+            IDbConnection conn = new MySqlConnection(connString);
+            
+            var repo = new DapperDepartmentRepository(conn);
+            
+            var departments = repo.GetAllDepartments();
+
+            foreach (var dept in departments)
+            {
+                Console.WriteLine($"{dept.DepartmentId} - {dept.Name}");
+            }
         }
     }
 }
