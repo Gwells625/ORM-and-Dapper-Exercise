@@ -8,8 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd6e0d83-3239-49b4-8592-5e587b4a7cfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ORM-Dapper/DapperProductRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ORM-Dapper/IProductRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ORM-Dapper/Product.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ORM-Dapper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ORM-Dapper/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/DapperDepartmentRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/DapperDepartmentRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ORM-Dapper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755011845239</updated>
       <workItem from="1755011847744" duration="7245000" />
-      <workItem from="1755184853254" duration="4674000" />
+      <workItem from="1755184853254" duration="8146000" />
     </task>
     <servers />
   </component>
